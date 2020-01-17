@@ -1,2 +1,2 @@
 # Cool-Functions
-Here I just try to write some functions for fun
+Here I just write some functions for fun
