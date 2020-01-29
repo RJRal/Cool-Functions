@@ -41,6 +41,10 @@ ax.set_xlim([k_arr[0],k_arr[-1]])
 
 ax.set_ylim([n_arr[0],n_arr[-1]])
 
+plt.xlabel('Person Skiped', size=14)
+
+plt.ylabel('Total Number of People', size=14)
+
 plt.show(block=False)
 
 
